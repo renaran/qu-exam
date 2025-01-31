@@ -1,0 +1,14 @@
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.AssemblyInfoInputs.cache
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.AssemblyInfo.cs
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.csproj.CoreCompileInputs.cache
+c:\Users\rmara\qu\my-console-app\bin\Debug\net6.0\my-console-app.exe
+c:\Users\rmara\qu\my-console-app\bin\Debug\net6.0\my-console-app.deps.json
+c:\Users\rmara\qu\my-console-app\bin\Debug\net6.0\my-console-app.runtimeconfig.json
+c:\Users\rmara\qu\my-console-app\bin\Debug\net6.0\my-console-app.dll
+c:\Users\rmara\qu\my-console-app\bin\Debug\net6.0\my-console-app.pdb
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.dll
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\refint\my-console-app.dll
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.pdb
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\my-console-app.genruntimeconfig.cache
+c:\Users\rmara\qu\my-console-app\obj\Debug\net6.0\ref\my-console-app.dll

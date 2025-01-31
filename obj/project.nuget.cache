@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GreenJSsBeg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmara\\qu\\my-console-app\\my-console-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rmara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rmara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rmara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
